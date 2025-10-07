@@ -1,6 +1,5 @@
 # BostonStatLab
 Repository created as part of the IBM Data Science Fundamentals with Python and SQL
-Statistical Deep Dive into Boston Housing Data
 
 ## Overview
 This project explores the Boston Housing dataset using core statistical techniques to uncover relationships between urban features and housing prices. From hypothesis testing to regression modeling, it provides a structured approach to understanding how factors like proximity to the Charles River, industrial land use, and access to employment centers impact home values.
